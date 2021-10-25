@@ -1,6 +1,6 @@
 # Data-Structure
 严蔚敏版数据结构C++实现（和书中代码几乎一模一样）
-#以下是关于.cpp文件命名的一些说明
+#以下是关于.cpp文件命名的一些说明\n
 InitList.cpp------顺序表
 LinkList.cpp------链表
 InitStack.cpp------顺序栈
