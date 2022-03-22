@@ -19,6 +19,8 @@ LinkQueue.cpp------单链队列
 
 C_Queue.cpp------循环队列
 
+InitString-------顺序串
+
 BinaryTree------二叉树
 
 BiThrTree-------线索二叉树
